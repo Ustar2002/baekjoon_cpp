@@ -15,7 +15,7 @@
 using namespace std;
 
 int main() {
-	int n,m=1;
+	int n, m = 1;
 	cin >> n;
 	while (n--) cout << m++ << '\n';
 }
